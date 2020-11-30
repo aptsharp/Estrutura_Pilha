@@ -2,7 +2,7 @@
 
 ## Descrição:
 
-- Mostrar os principais conceitos de pilha em C#
+- Mostrar os principais conceitos da estrutura de dados de __pilha__ em C#
 
 ## Techs:
 
