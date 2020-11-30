@@ -18,7 +18,7 @@ namespace Est_Pilha
         {
             if(primeiro == null)
             {
-                Console.WriteLine("FIM");
+                throw new InvalidOperationException("A pilha esta vazia");
             }
 
             object resultado = primeiro.item;
