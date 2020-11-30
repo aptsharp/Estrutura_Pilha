@@ -14,6 +14,9 @@ namespace Est_Pilha
             s.Empilha(1000);
             s.Empilha(321654987);
             s.Empilha("asdf");
+            s.Empilha("asdfçlkjqwerpoiuzxvc;.,m");
+            Console.WriteLine(s.Desempilha());
+            Console.WriteLine(s.Desempilha());
             Console.WriteLine(s.Desempilha());
             Console.WriteLine(s.Desempilha());
             Console.WriteLine(s.Desempilha());

@@ -18,7 +18,7 @@ namespace Est_Pilha
         {
             if(primeiro == null)
             {
-                throw new InvalidOperationException();
+                Console.WriteLine("FIM");
             }
 
             object resultado = primeiro.item;
@@ -36,8 +36,6 @@ namespace Est_Pilha
                 this.item = item;
             }
         }
-
-
 
     }
 }
