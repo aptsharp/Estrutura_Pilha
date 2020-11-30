@@ -1,0 +1,13 @@
+C:\Users\aff-o\OneDrive\Área de Trabalho\_DIO\Estrutura de programa\_app\Est_Pilha\bin\Debug\netcoreapp3.1\Est_Pilha.exe
+C:\Users\aff-o\OneDrive\Área de Trabalho\_DIO\Estrutura de programa\_app\Est_Pilha\bin\Debug\netcoreapp3.1\Est_Pilha.deps.json
+C:\Users\aff-o\OneDrive\Área de Trabalho\_DIO\Estrutura de programa\_app\Est_Pilha\bin\Debug\netcoreapp3.1\Est_Pilha.runtimeconfig.json
+C:\Users\aff-o\OneDrive\Área de Trabalho\_DIO\Estrutura de programa\_app\Est_Pilha\bin\Debug\netcoreapp3.1\Est_Pilha.runtimeconfig.dev.json
+C:\Users\aff-o\OneDrive\Área de Trabalho\_DIO\Estrutura de programa\_app\Est_Pilha\bin\Debug\netcoreapp3.1\Est_Pilha.dll
+C:\Users\aff-o\OneDrive\Área de Trabalho\_DIO\Estrutura de programa\_app\Est_Pilha\bin\Debug\netcoreapp3.1\Est_Pilha.pdb
+C:\Users\aff-o\OneDrive\Área de Trabalho\_DIO\Estrutura de programa\_app\Est_Pilha\obj\Debug\netcoreapp3.1\Est_Pilha.csprojAssemblyReference.cache
+C:\Users\aff-o\OneDrive\Área de Trabalho\_DIO\Estrutura de programa\_app\Est_Pilha\obj\Debug\netcoreapp3.1\Est_Pilha.AssemblyInfoInputs.cache
+C:\Users\aff-o\OneDrive\Área de Trabalho\_DIO\Estrutura de programa\_app\Est_Pilha\obj\Debug\netcoreapp3.1\Est_Pilha.AssemblyInfo.cs
+C:\Users\aff-o\OneDrive\Área de Trabalho\_DIO\Estrutura de programa\_app\Est_Pilha\obj\Debug\netcoreapp3.1\Est_Pilha.csproj.CoreCompileInputs.cache
+C:\Users\aff-o\OneDrive\Área de Trabalho\_DIO\Estrutura de programa\_app\Est_Pilha\obj\Debug\netcoreapp3.1\Est_Pilha.dll
+C:\Users\aff-o\OneDrive\Área de Trabalho\_DIO\Estrutura de programa\_app\Est_Pilha\obj\Debug\netcoreapp3.1\Est_Pilha.pdb
+C:\Users\aff-o\OneDrive\Área de Trabalho\_DIO\Estrutura de programa\_app\Est_Pilha\obj\Debug\netcoreapp3.1\Est_Pilha.genruntimeconfig.cache
